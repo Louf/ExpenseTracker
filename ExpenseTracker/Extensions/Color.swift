@@ -1,10 +1,3 @@
-//
-//  Color.swift
-//  ExpenseTracker
-//
-//  Created by Louis Farmer on 12/12/23.
-//
-
 import Foundation
 import SwiftUI
 

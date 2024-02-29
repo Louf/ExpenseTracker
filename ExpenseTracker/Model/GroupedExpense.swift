@@ -1,10 +1,3 @@
-//
-//  GroupedExpense.swift
-//  ExpenseTracker
-//
-//  Created by Louis Farmer on 12/11/23.
-//
-
 import Foundation
 
 struct GroupedExpenses: Identifiable {

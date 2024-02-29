@@ -1,10 +1,3 @@
-//
-//  SummaryView.swift
-//  ExpenseTracker
-//
-//  Created by Louis Farmer on 12/14/23.
-//
-
 import SwiftUI
 import SwiftData
 import Charts

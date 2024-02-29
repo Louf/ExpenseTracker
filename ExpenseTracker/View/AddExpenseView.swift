@@ -1,10 +1,3 @@
-//
-//  AddExpenseView.swift
-//  ExpenseTracker
-//
-//  Created by Louis Farmer on 12/11/23.
-//
-
 import SwiftUI
 import SwiftData
 

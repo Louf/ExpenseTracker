@@ -1,10 +1,3 @@
-//
-//  Formatter.swift
-//  ExpenseTracker
-//
-//  Created by Louis Farmer on 12/14/23.
-//
-
 import Foundation
 
 //Decimal formatter for text input
